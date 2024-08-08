@@ -1,0 +1,10 @@
+wandb_version: 1
+
+batch_size:
+  value: 35
+layer1_size:
+  value: 108
+layer2_size:
+  value: 54
+learning_rate:
+  value: 0.007266189549828979

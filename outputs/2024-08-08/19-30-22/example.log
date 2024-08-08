@@ -1,0 +1,1 @@
+[2024-08-08 19:30:24,878][root][INFO] - Config: ExperimentConfig(project_name='example-for-boys', dataset='iris', batch_size=5, learning_rate=0.09501540063587048, epochs=100, layer1_size=22, layer2_size=38)

@@ -1,0 +1,7 @@
+project_name: example-for-boys
+dataset: iris
+batch_size: 4
+learning_rate: 0.01
+epochs: 100
+layer1_size: 8
+layer2_size: 8
